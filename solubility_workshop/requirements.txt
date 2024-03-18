@@ -1,3 +1,5 @@
 jupyter==1.0.0
 pycaret==3.2.0
 rdkit==2023.9.4
+seaborn==0.13.1
+pubchempy==1.0.4

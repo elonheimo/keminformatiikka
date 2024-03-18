@@ -16,8 +16,11 @@ Create a new folder
 Download files to folder:
 [requirements.txt](https://github.com/elonheimo/keminformatiikka/blob/main/solubility_workshop/requirements.txt),
 [Solubility model](https://github.com/elonheimo/keminformatiikka/raw/main/solubility_workshop/WaterSoulubility_03_01_2024_model.pkl),
-[solubility_predictor](https://github.com/elonheimo/keminformatiikka/blob/main/solubility_workshop/solubility_predictor.ipynb)
+[solubility_predictor](https://github.com/elonheimo/keminformatiikka/blob/main/solubility_workshop/DrugDiscovery.ipynb)
 [chem_util.py](https://github.com/elonheimo/keminformatiikka/blob/main/solubility_workshop/chem_util.py)
+[kokeellisetLogS_referenssipisteet.csv](https://github.com/elonheimo/keminformatiikka/blob/main/solubility_workshop/kokeellisetLogS_referenssipisteet.csv)
+[BP.csv](https://github.com/elonheimo/keminformatiikka/blob/main/solubility_workshop/BP.csv)
+
 
 Run all commands under new created folder with the files
 
@@ -36,4 +39,4 @@ Install required packages (will take a few minutes):
 Open jyputer notebook (command should open jupyter in browser):
 ```python3 -m notebook```
 
-Open `solubility_predictor.ipynb` in jupyter and follow instructions within notebook
+Open `DrugDiscovery.ipynb` in jupyter and follow instructions within notebook
