@@ -1,4 +1,4 @@
-## Solubility workshop
+## Drug discovery workshop
 
 ### Setup
 Prerequisites: Python 3.8.xx - 3.11.xx 
